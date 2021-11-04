@@ -2,22 +2,25 @@
 # Truth-Conditional Captions for Time Series Data. EMNLP 2021
 
 
-Code and Data for our EMNLP 2021  paper titled 'Truth-Conditional Captions for Time Series Dat. Harsh Jhamtani, Taylor Berg-Kirkpatrick
+Code and Data for our EMNLP 2021 paper titled 'Truth-Conditional Captions for Time Series Data'. 
 
 
 ### Data
 - processed_data/
 - Contains
-  - Synthetic time series data with NL annotations  
-  - Stock time series data with NL annotations  
+  - Synthetic time series data with NL annotations (pilot13final*) 
+  - Stock time series data with NL annotations  (pilot16b*)
 
 ### Code
-- TODO
+- allennlp_series/
+- Experiment scripts: TODO
 
 
 #### Requirements
-- 
-
+- requirements.txt file
+- Additional dependency on cocoevals
+  - Download cocoevals code from following URL: TODO 
+  - Move the folders to allennlp_series/training/metrics/
 
 
 
