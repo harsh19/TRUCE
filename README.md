@@ -6,7 +6,10 @@ Code and Data for our EMNLP 2021  paper titled 'Truth-Conditional Captions for T
 
 
 ### Data
-- TODO
+- processed_data/
+- Contains
+  - Synthetic time series data with NL annotations  
+  - Stock time series data with NL annotations  
 
 ### Code
 - TODO
