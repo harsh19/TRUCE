@@ -14,6 +14,7 @@ Code and Data for our EMNLP 2021 paper titled 'Truth-Conditional Captions for Ti
 ### Code
 - allennlp_series/
 - Experiment scripts: TODO
+- Pre-trained model files: TODO
 
 
 #### Requirements
