@@ -1,0 +1,5132 @@
+{
+  "pilot16/AD_10.png": {
+    "id": "pilot16/AD_10.png",
+    "idx": "AD_10",
+    "annotations": [
+      "line decreases near the end",
+      "highest point is in middle",
+      "rises in the middle"
+    ],
+    "series": [
+      18,
+      22,
+      27,
+      27,
+      27,
+      28,
+      27,
+      24,
+      20,
+      21,
+      14,
+      12
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_128"
+    }
+  },
+  "pilot16/AD_393.png": {
+    "id": "pilot16/AD_393.png",
+    "idx": "AD_393",
+    "annotations": [
+      "lowest point is at the end",
+      "lowest at the end",
+      "stays flat at the beginning"
+    ],
+    "series": [
+      43,
+      46,
+      43,
+      18,
+      27,
+      22,
+      12,
+      9,
+      10,
+      0,
+      1,
+      0
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_4724"
+    }
+  },
+  "pilot16/MSFT_Daily_251.png": {
+    "id": "pilot16/MSFT_Daily_251.png",
+    "idx": "MSFT_Daily_251",
+    "annotations": [
+      "bottoms out near the end",
+      "remains flat in the ends",
+      "decreases from initial part"
+    ],
+    "series": [
+      76,
+      78,
+      53,
+      59,
+      59,
+      61,
+      63,
+      63,
+      48,
+      55,
+      76,
+      72
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_3020"
+    }
+  },
+  "pilot16/ZD_319.png": {
+    "id": "pilot16/ZD_319.png",
+    "idx": "ZD_319",
+    "annotations": [
+      "max value at the end",
+      "increases gradually from the middle",
+      "increases from the beginning"
+    ],
+    "series": [
+      40,
+      37,
+      36,
+      38,
+      47,
+      55,
+      55,
+      53,
+      51,
+      59,
+      55,
+      64
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_3836"
+    }
+  },
+  "pilot16/GD_221.png": {
+    "id": "pilot16/GD_221.png",
+    "idx": "GD_221",
+    "annotations": [
+      "sharp decline at middle",
+      "peak in the middle",
+      "graph is continuously growing"
+    ],
+    "series": [
+      58,
+      51,
+      68,
+      65,
+      69,
+      66,
+      88,
+      66,
+      60,
+      46,
+      54,
+      46
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_2660"
+    }
+  },
+  "pilot16/GD_271.png": {
+    "id": "pilot16/GD_271.png",
+    "idx": "GD_271",
+    "annotations": [
+      "line increases towards the end",
+      "decreases in the initial part",
+      "dips suddenly in the middle."
+    ],
+    "series": [
+      39,
+      38,
+      30,
+      35,
+      37,
+      34,
+      29,
+      10,
+      19,
+      29,
+      28,
+      34
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_3260"
+    }
+  },
+  "pilot16/AD_36.png": {
+    "id": "pilot16/AD_36.png",
+    "idx": "AD_36",
+    "annotations": [
+      "line stays stagnant the entire duration",
+      "consists off all very low and rarely varying",
+      "flat in the middle"
+    ],
+    "series": [
+      5,
+      6,
+      9,
+      7,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      7
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_440"
+    }
+  },
+  "pilot16/AD_482.png": {
+    "id": "pilot16/AD_482.png",
+    "idx": "AD_482",
+    "annotations": [
+      "line peaks towards the end",
+      "peak in the middle part",
+      "gradually rises in the middle"
+    ],
+    "series": [
+      52,
+      51,
+      51,
+      47,
+      48,
+      45,
+      59,
+      70,
+      65,
+      56,
+      54,
+      55
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_5792"
+    }
+  },
+  "pilot16/AD_211.png": {
+    "id": "pilot16/AD_211.png",
+    "idx": "AD_211",
+    "annotations": [
+      "rise at the beginning",
+      "increase lightly at beginning",
+      "steady decrease to the end."
+    ],
+    "series": [
+      26,
+      28,
+      39,
+      34,
+      28,
+      35,
+      29,
+      33,
+      20,
+      23,
+      18,
+      16
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_2540"
+    }
+  },
+  "pilot16/AW_9.png": {
+    "id": "pilot16/AW_9.png",
+    "idx": "AW_9",
+    "annotations": [
+      "shows steady decrease for last forty percent.",
+      "slight decline at the end",
+      "small decline towards end"
+    ],
+    "series": [
+      34,
+      30,
+      23,
+      30,
+      25,
+      31,
+      35,
+      33,
+      31,
+      31,
+      22,
+      22
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AW_116"
+    }
+  },
+  "pilot16/AD_336.png": {
+    "id": "pilot16/AD_336.png",
+    "idx": "AD_336",
+    "annotations": [
+      "rise in beginning",
+      "curves upwards in the middle",
+      "peaks in the middle"
+    ],
+    "series": [
+      35,
+      42,
+      41,
+      58,
+      69,
+      70,
+      75,
+      72,
+      64,
+      51,
+      41,
+      47
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_4040"
+    }
+  },
+  "pilot16/ZD_157.png": {
+    "id": "pilot16/ZD_157.png",
+    "idx": "ZD_157",
+    "annotations": [
+      "declines from the middle onward",
+      "peaks towards the end",
+      "a slow smooth increase"
+    ],
+    "series": [
+      39,
+      35,
+      37,
+      41,
+      43,
+      42,
+      48,
+      51,
+      52,
+      52,
+      47,
+      36
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_1892"
+    }
+  },
+  "pilot16/MSFT_Daily_602.png": {
+    "id": "pilot16/MSFT_Daily_602.png",
+    "idx": "MSFT_Daily_602",
+    "annotations": [
+      "small rise in middle",
+      "after a steady response the trend goes uphill",
+      "starts off with a move upwards."
+    ],
+    "series": [
+      66,
+      74,
+      77,
+      69,
+      76,
+      66,
+      79,
+      84,
+      86,
+      85,
+      82,
+      85
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_7232"
+    }
+  },
+  "pilot16/ZD_44.png": {
+    "id": "pilot16/ZD_44.png",
+    "idx": "ZD_44",
+    "annotations": [
+      "trends down at the very end.",
+      "bottoms out in the middle",
+      "small decline at end"
+    ],
+    "series": [
+      66,
+      69,
+      73,
+      65,
+      69,
+      71,
+      57,
+      72,
+      88,
+      96,
+      93,
+      82
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_536"
+    }
+  },
+  "pilot16/MSFT_Weekly_96.png": {
+    "id": "pilot16/MSFT_Weekly_96.png",
+    "idx": "MSFT_Weekly_96",
+    "annotations": [
+      "gradually declines in the middle",
+      "consistently moves upward at the end.",
+      "small rise at end"
+    ],
+    "series": [
+      86,
+      78,
+      70,
+      87,
+      83,
+      72,
+      74,
+      53,
+      51,
+      45,
+      58,
+      62
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Weekly_1160"
+    }
+  },
+  "pilot16/OD_610.png": {
+    "id": "pilot16/OD_610.png",
+    "idx": "OD_610",
+    "annotations": [
+      "increases very slowly throughout",
+      "small dip in middle",
+      "maximum value at the end"
+    ],
+    "series": [
+      56,
+      62,
+      65,
+      67,
+      67,
+      56,
+      65,
+      67,
+      67,
+      69,
+      69,
+      72
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_7328"
+    }
+  },
+  "pilot16/DD_284.png": {
+    "id": "pilot16/DD_284.png",
+    "idx": "DD_284",
+    "annotations": [
+      "maximum value at the beginning",
+      "flat at the end",
+      "drops a lot at beginning."
+    ],
+    "series": [
+      33,
+      26,
+      16,
+      24,
+      25,
+      16,
+      21,
+      20,
+      11,
+      12,
+      18,
+      17
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_3416"
+    }
+  },
+  "pilot16/OD_512.png": {
+    "id": "pilot16/OD_512.png",
+    "idx": "OD_512",
+    "annotations": [
+      "highest point in the middle.",
+      "rise in the middle",
+      "levels towards the end."
+    ],
+    "series": [
+      51,
+      50,
+      46,
+      43,
+      54,
+      68,
+      70,
+      69,
+      66,
+      51,
+      55,
+      55
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_6152"
+    }
+  },
+  "pilot16/WD_237.png": {
+    "id": "pilot16/WD_237.png",
+    "idx": "WD_237",
+    "annotations": [
+      "bottoms out in the middle.",
+      "dip in the middle",
+      "decreases in the first third."
+    ],
+    "series": [
+      69,
+      66,
+      57,
+      61,
+      38,
+      45,
+      51,
+      70,
+      57,
+      78,
+      73,
+      73
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_2852"
+    }
+  },
+  "pilot16/OD_549.png": {
+    "id": "pilot16/OD_549.png",
+    "idx": "OD_549",
+    "annotations": [
+      "rise at end",
+      "increases slowly then more quickly after midpoint",
+      "peaks in value at the end."
+    ],
+    "series": [
+      39,
+      45,
+      43,
+      47,
+      41,
+      53,
+      50,
+      50,
+      69,
+      74,
+      85,
+      87
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_6596"
+    }
+  },
+  "pilot16/WD_533.png": {
+    "id": "pilot16/WD_533.png",
+    "idx": "WD_533",
+    "annotations": [
+      "slightly decreases throughout",
+      "moderate increase at the end.",
+      "highest endpoint at the beginning"
+    ],
+    "series": [
+      36,
+      40,
+      32,
+      21,
+      17,
+      15,
+      20,
+      20,
+      15,
+      10,
+      14,
+      18
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_6404"
+    }
+  },
+  "pilot16/BD_595.png": {
+    "id": "pilot16/BD_595.png",
+    "idx": "BD_595",
+    "annotations": [
+      "increases in the first half",
+      "sharp increase in the second quarter.",
+      "highest endpoint at the end"
+    ],
+    "series": [
+      42,
+      37,
+      35,
+      41,
+      56,
+      82,
+      64,
+      72,
+      72,
+      74,
+      58,
+      70
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_7148"
+    }
+  },
+  "pilot16/WD_350.png": {
+    "id": "pilot16/WD_350.png",
+    "idx": "WD_350",
+    "annotations": [
+      "sharpish increase at the end.",
+      "steady advance to top",
+      "maximum value at the end"
+    ],
+    "series": [
+      44,
+      51,
+      51,
+      54,
+      53,
+      51,
+      56,
+      60,
+      55,
+      53,
+      60,
+      65
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_4208"
+    }
+  },
+  "pilot16/BD_419.png": {
+    "id": "pilot16/BD_419.png",
+    "idx": "BD_419",
+    "annotations": [
+      "rises sharply from the middle.",
+      "steep rise at end",
+      "increases from the middle onwards"
+    ],
+    "series": [
+      22,
+      29,
+      27,
+      32,
+      29,
+      30,
+      27,
+      20,
+      38,
+      53,
+      68,
+      89
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_5036"
+    }
+  },
+  "pilot16/WD_369.png": {
+    "id": "pilot16/WD_369.png",
+    "idx": "WD_369",
+    "annotations": [
+      "line stays stagnant after halfway point",
+      "sharp decrease from the beginning",
+      "decreases sharply at the start"
+    ],
+    "series": [
+      78,
+      53,
+      48,
+      49,
+      20,
+      13,
+      16,
+      15,
+      17,
+      18,
+      19,
+      11
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_4436"
+    }
+  },
+  "pilot16/WD_220.png": {
+    "id": "pilot16/WD_220.png",
+    "idx": "WD_220",
+    "annotations": [
+      "maximum value at the end",
+      "a sharp increase from in the middle",
+      "increases throughout"
+    ],
+    "series": [
+      14,
+      41,
+      33,
+      16,
+      49,
+      42,
+      43,
+      45,
+      89,
+      83,
+      91,
+      81
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_2648"
+    }
+  },
+  "pilot16/GD_281.png": {
+    "id": "pilot16/GD_281.png",
+    "idx": "GD_281",
+    "annotations": [
+      "drastic decrease at the end",
+      "severe decline at the end",
+      "decreases from middle onward"
+    ],
+    "series": [
+      96,
+      93,
+      96,
+      99,
+      99,
+      92,
+      96,
+      95,
+      63,
+      31,
+      45,
+      27
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_3380"
+    }
+  },
+  "pilot16/MSFT_Daily_165.png": {
+    "id": "pilot16/MSFT_Daily_165.png",
+    "idx": "MSFT_Daily_165",
+    "annotations": [
+      "decreases at end",
+      "rises slowly in the middle",
+      "begins to decrease at the very end"
+    ],
+    "series": [
+      27,
+      22,
+      24,
+      19,
+      27,
+      32,
+      38,
+      35,
+      38,
+      44,
+      47,
+      40
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_1988"
+    }
+  },
+  "pilot16/GD_35.png": {
+    "id": "pilot16/GD_35.png",
+    "idx": "GD_35",
+    "annotations": [
+      "end is much lower than start",
+      "peaks in the middle",
+      "decreases rapidly at the middle"
+    ],
+    "series": [
+      34,
+      33,
+      34,
+      33,
+      34,
+      54,
+      45,
+      23,
+      6,
+      9,
+      2,
+      6
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_428"
+    }
+  },
+  "pilot16/MSFT_Daily_480.png": {
+    "id": "pilot16/MSFT_Daily_480.png",
+    "idx": "MSFT_Daily_480",
+    "annotations": [
+      "peaks in the middle",
+      "highest point is at the middle",
+      "peak is in the middle"
+    ],
+    "series": [
+      3,
+      8,
+      8,
+      13,
+      30,
+      23,
+      16,
+      22,
+      13,
+      6,
+      1,
+      0
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_5768"
+    }
+  },
+  "pilot16/AD_306.png": {
+    "id": "pilot16/AD_306.png",
+    "idx": "AD_306",
+    "annotations": [
+      "stays flat",
+      "stays the same end and beginning",
+      "stays flat"
+    ],
+    "series": [
+      11,
+      12,
+      11,
+      3,
+      5,
+      11,
+      9,
+      6,
+      8,
+      8,
+      9,
+      12
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_3680"
+    }
+  },
+  "pilot16/ZD_172.png": {
+    "id": "pilot16/ZD_172.png",
+    "idx": "ZD_172",
+    "annotations": [
+      "it varrys from hicghest to the lowest point",
+      "steady decrease over all",
+      "lowest point is at the end"
+    ],
+    "series": [
+      86,
+      75,
+      79,
+      70,
+      78,
+      71,
+      70,
+      66,
+      66,
+      67,
+      63,
+      54
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_2072"
+    }
+  },
+  "pilot16/ZW_67.png": {
+    "id": "pilot16/ZW_67.png",
+    "idx": "ZW_67",
+    "annotations": [
+      "from low to high & back normal",
+      "peaks in the center",
+      "highest point is in the middle"
+    ],
+    "series": [
+      34,
+      29,
+      38,
+      24,
+      41,
+      51,
+      56,
+      71,
+      48,
+      44,
+      48,
+      48
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZW_812"
+    }
+  },
+  "pilot16/AW_23.png": {
+    "id": "pilot16/AW_23.png",
+    "idx": "AW_23",
+    "annotations": [
+      "remains mostly steady overall",
+      "relatively flat from middle to end",
+      "highest point is at the beginning"
+    ],
+    "series": [
+      30,
+      40,
+      35,
+      40,
+      40,
+      29,
+      34,
+      31,
+      28,
+      32,
+      32,
+      28
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AW_284"
+    }
+  },
+  "pilot16/WD_232.png": {
+    "id": "pilot16/WD_232.png",
+    "idx": "WD_232",
+    "annotations": [
+      "a moderate rise in value near the middle",
+      "line steadily increases until halfway point",
+      "decline at end"
+    ],
+    "series": [
+      38,
+      45,
+      46,
+      51,
+      48,
+      53,
+      49,
+      76,
+      66,
+      58,
+      50,
+      44
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_2792"
+    }
+  },
+  "pilot16/DD_154.png": {
+    "id": "pilot16/DD_154.png",
+    "idx": "DD_154",
+    "annotations": [
+      "slight growth at the beginning",
+      "line remains stagnant after the beginning",
+      "ups & downs"
+    ],
+    "series": [
+      32,
+      45,
+      40,
+      45,
+      32,
+      29,
+      32,
+      31,
+      27,
+      34,
+      36,
+      33
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_1856"
+    }
+  },
+  "pilot16/WD_91.png": {
+    "id": "pilot16/WD_91.png",
+    "idx": "WD_91",
+    "annotations": [
+      "maximum value at the start",
+      "begins with a steady decline.",
+      "reduces at the start"
+    ],
+    "series": [
+      35,
+      35,
+      25,
+      27,
+      25,
+      0,
+      17,
+      27,
+      20,
+      10,
+      5,
+      12
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_1100"
+    }
+  },
+  "pilot16/BD_138.png": {
+    "id": "pilot16/BD_138.png",
+    "idx": "BD_138",
+    "annotations": [
+      "line increases sharply at the beginning",
+      "gradual increase from beginning to middle",
+      "dips in the second half"
+    ],
+    "series": [
+      43,
+      49,
+      73,
+      52,
+      64,
+      79,
+      81,
+      67,
+      67,
+      60,
+      63,
+      70
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_1664"
+    }
+  },
+  "pilot16/BD_109.png": {
+    "id": "pilot16/BD_109.png",
+    "idx": "BD_109",
+    "annotations": [
+      "highest point at the end",
+      "sharp rise from middle to end",
+      "line stays stagnant at the beginning"
+    ],
+    "series": [
+      28,
+      31,
+      28,
+      28,
+      23,
+      27,
+      32,
+      46,
+      46,
+      52,
+      57,
+      62
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_1316"
+    }
+  },
+  "pilot16/BD_352.png": {
+    "id": "pilot16/BD_352.png",
+    "idx": "BD_352",
+    "annotations": [
+      "dip at end",
+      "line stays stagnant until the end",
+      "highest point is at the beginning"
+    ],
+    "series": [
+      51,
+      44,
+      45,
+      43,
+      46,
+      44,
+      40,
+      46,
+      51,
+      35,
+      25,
+      28
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_4232"
+    }
+  },
+  "pilot16/OW_72.png": {
+    "id": "pilot16/OW_72.png",
+    "idx": "OW_72",
+    "annotations": [
+      "peaks close to the end",
+      "smooth drop at the end",
+      "pattern of peaks and valleys"
+    ],
+    "series": [
+      57,
+      60,
+      66,
+      79,
+      77,
+      65,
+      60,
+      74,
+      84,
+      86,
+      75,
+      61
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OW_872"
+    }
+  },
+  "pilot16/WD_309.png": {
+    "id": "pilot16/WD_309.png",
+    "idx": "WD_309",
+    "annotations": [
+      "maximum value in the middle",
+      "line peaks at the middle",
+      "bottom out at the end"
+    ],
+    "series": [
+      19,
+      23,
+      26,
+      25,
+      28,
+      30,
+      39,
+      32,
+      20,
+      21,
+      21,
+      15
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_3716"
+    }
+  },
+  "pilot16/OW_56.png": {
+    "id": "pilot16/OW_56.png",
+    "idx": "OW_56",
+    "annotations": [
+      "line steadily decreases at the end",
+      "peaks in middle but otherwise relatively flat",
+      "beginning and end are relatively the same"
+    ],
+    "series": [
+      53,
+      58,
+      62,
+      52,
+      57,
+      68,
+      61,
+      47,
+      61,
+      52,
+      48,
+      52
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OW_680"
+    }
+  },
+  "pilot16/WD_368.png": {
+    "id": "pilot16/WD_368.png",
+    "idx": "WD_368",
+    "annotations": [
+      "starting point is higher than the end",
+      "increases at end",
+      "maximum value at the start"
+    ],
+    "series": [
+      74,
+      72,
+      70,
+      57,
+      45,
+      49,
+      45,
+      49,
+      56,
+      40,
+      59,
+      60
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_4424"
+    }
+  },
+  "pilot16/OD_566.png": {
+    "id": "pilot16/OD_566.png",
+    "idx": "OD_566",
+    "annotations": [
+      "ends slightly lower than start",
+      "slight steady decrease in the first half",
+      "line stays stagnant the whole time"
+    ],
+    "series": [
+      15,
+      10,
+      11,
+      7,
+      7,
+      0,
+      3,
+      8,
+      6,
+      0,
+      17,
+      6
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_6800"
+    }
+  },
+  "pilot16/BD_366.png": {
+    "id": "pilot16/BD_366.png",
+    "idx": "BD_366",
+    "annotations": [
+      "smooth decrease from start to middle",
+      "steadily decreases prior to the end",
+      "line stays stagnant most of the time"
+    ],
+    "series": [
+      26,
+      20,
+      17,
+      11,
+      19,
+      9,
+      7,
+      2,
+      0,
+      4,
+      11,
+      16
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_4400"
+    }
+  },
+  "pilot16/MSFT_Weekly_64.png": {
+    "id": "pilot16/MSFT_Weekly_64.png",
+    "idx": "MSFT_Weekly_64",
+    "annotations": [
+      "increases at the end",
+      "decreases smoothly at the end",
+      "slight increase near the end."
+    ],
+    "series": [
+      40,
+      36,
+      45,
+      43,
+      41,
+      42,
+      38,
+      37,
+      29,
+      22,
+      30,
+      32
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Weekly_776"
+    }
+  },
+  "pilot16/ZW_17.png": {
+    "id": "pilot16/ZW_17.png",
+    "idx": "ZW_17",
+    "annotations": [
+      "peaks in the middle",
+      "peaks in the middle.",
+      "decreases after middle"
+    ],
+    "series": [
+      65,
+      43,
+      43,
+      54,
+      62,
+      75,
+      73,
+      42,
+      41,
+      26,
+      27,
+      29
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZW_212"
+    }
+  },
+  "pilot16/AD_55.png": {
+    "id": "pilot16/AD_55.png",
+    "idx": "AD_55",
+    "annotations": [
+      "stays mostly constant at the end",
+      "barely ends up higher",
+      "steady, gradual rise"
+    ],
+    "series": [
+      5,
+      0,
+      3,
+      3,
+      4,
+      6,
+      8,
+      10,
+      15,
+      14,
+      12,
+      14
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_668"
+    }
+  },
+  "pilot16/GD_216.png": {
+    "id": "pilot16/GD_216.png",
+    "idx": "GD_216",
+    "annotations": [
+      "higher value at the end",
+      "increases smoothly in the beginning",
+      "increase smoothly in the middle"
+    ],
+    "series": [
+      6,
+      25,
+      37,
+      47,
+      64,
+      76,
+      72,
+      82,
+      75,
+      75,
+      67,
+      64
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_2600"
+    }
+  },
+  "pilot16/GD_139.png": {
+    "id": "pilot16/GD_139.png",
+    "idx": "GD_139",
+    "annotations": [
+      "declines very much at the beginning.",
+      "sharply decreases at beginning",
+      "falls sharply at beginning"
+    ],
+    "series": [
+      80,
+      17,
+      12,
+      4,
+      10,
+      9,
+      9,
+      19,
+      26,
+      26,
+      34,
+      27
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_1676"
+    }
+  },
+  "pilot16/GW_64.png": {
+    "id": "pilot16/GW_64.png",
+    "idx": "GW_64",
+    "annotations": [
+      "volatile increase",
+      "slowly climbs",
+      "stays constant at the end"
+    ],
+    "series": [
+      23,
+      27,
+      22,
+      64,
+      45,
+      43,
+      39,
+      30,
+      43,
+      48,
+      60,
+      57
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GW_776"
+    }
+  },
+  "pilot16/WD_501.png": {
+    "id": "pilot16/WD_501.png",
+    "idx": "WD_501",
+    "annotations": [
+      "sharp drop at the end",
+      "start and end values are close",
+      "decreases quickly at the end."
+    ],
+    "series": [
+      53,
+      48,
+      47,
+      62,
+      72,
+      76,
+      80,
+      81,
+      83,
+      84,
+      68,
+      56
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_6020"
+    }
+  },
+  "pilot16/DD_174.png": {
+    "id": "pilot16/DD_174.png",
+    "idx": "DD_174",
+    "annotations": [
+      "levels off towards the very end.",
+      "increases slowly with a small dip",
+      "mostly flat"
+    ],
+    "series": [
+      47,
+      49,
+      55,
+      50,
+      59,
+      53,
+      58,
+      56,
+      49,
+      58,
+      56,
+      57
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_2096"
+    }
+  },
+  "pilot16/WD_537.png": {
+    "id": "pilot16/WD_537.png",
+    "idx": "WD_537",
+    "annotations": [
+      "decreases smoothly until the end",
+      "decreases after the middle",
+      "consistently decreases from the middle."
+    ],
+    "series": [
+      71,
+      75,
+      80,
+      76,
+      79,
+      75,
+      54,
+      46,
+      45,
+      29,
+      7,
+      0
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_6452"
+    }
+  },
+  "pilot16/DD_409.png": {
+    "id": "pilot16/DD_409.png",
+    "idx": "DD_409",
+    "annotations": [
+      "bottoms out toward the middle",
+      "decreases sharply at beginning",
+      "increases rapidly in the second half."
+    ],
+    "series": [
+      29,
+      16,
+      10,
+      0,
+      2,
+      13,
+      15,
+      25,
+      24,
+      43,
+      56,
+      58
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_4916"
+    }
+  },
+  "pilot16/DD_602.png": {
+    "id": "pilot16/DD_602.png",
+    "idx": "DD_602",
+    "annotations": [
+      "increases at the beginning",
+      "ends a little higher value than the beginning",
+      "stays fairly even"
+    ],
+    "series": [
+      77,
+      79,
+      95,
+      79,
+      85,
+      70,
+      74,
+      60,
+      68,
+      78,
+      79,
+      83
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_7232"
+    }
+  },
+  "pilot16/DD_617.png": {
+    "id": "pilot16/DD_617.png",
+    "idx": "DD_617",
+    "annotations": [
+      "increases quickly at the start.",
+      "increases until the middle",
+      "flattens out after the start"
+    ],
+    "series": [
+      0,
+      19,
+      27,
+      31,
+      37,
+      41,
+      33,
+      35,
+      34,
+      30,
+      32,
+      35
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_7412"
+    }
+  },
+  "pilot16/BD_118.png": {
+    "id": "pilot16/BD_118.png",
+    "idx": "BD_118",
+    "annotations": [
+      "peak at the end",
+      "peak at the ending part",
+      "steady increase towards the end"
+    ],
+    "series": [
+      6,
+      20,
+      20,
+      9,
+      4,
+      6,
+      10,
+      12,
+      12,
+      12,
+      25,
+      43
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_1424"
+    }
+  },
+  "pilot16/DD_277.png": {
+    "id": "pilot16/DD_277.png",
+    "idx": "DD_277",
+    "annotations": [
+      "sharp decrease near the beginning",
+      "end value slightly higher than start",
+      "decreases slightly at the middle"
+    ],
+    "series": [
+      49,
+      55,
+      64,
+      48,
+      36,
+      45,
+      47,
+      44,
+      46,
+      38,
+      37,
+      54
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_3332"
+    }
+  },
+  "pilot16/WD_85.png": {
+    "id": "pilot16/WD_85.png",
+    "idx": "WD_85",
+    "annotations": [
+      "steadily decreases near the end",
+      "includes mostly one radical increase",
+      "troughs at the ending part"
+    ],
+    "series": [
+      7,
+      6,
+      15,
+      24,
+      31,
+      31,
+      39,
+      50,
+      55,
+      45,
+      39,
+      35
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_1028"
+    }
+  },
+  "pilot16/BD_516.png": {
+    "id": "pilot16/BD_516.png",
+    "idx": "BD_516",
+    "annotations": [
+      "highest value at the end",
+      "peak in the volatile manner",
+      "peak at the end"
+    ],
+    "series": [
+      12,
+      18,
+      20,
+      17,
+      29,
+      47,
+      39,
+      54,
+      58,
+      73,
+      74,
+      74
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_6200"
+    }
+  },
+  "pilot16/OD_124.png": {
+    "id": "pilot16/OD_124.png",
+    "idx": "OD_124",
+    "annotations": [
+      "end is lower than the initial part",
+      "lowest value at end",
+      "steadily moves downwards towards the end"
+    ],
+    "series": [
+      31,
+      25,
+      22,
+      25,
+      23,
+      18,
+      20,
+      27,
+      30,
+      21,
+      15,
+      9
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_1496"
+    }
+  },
+  "pilot16/BD_404.png": {
+    "id": "pilot16/BD_404.png",
+    "idx": "BD_404",
+    "annotations": [
+      "lowest value at the beginning",
+      "peak at the initial point",
+      "slight peak at ending"
+    ],
+    "series": [
+      29,
+      30,
+      46,
+      32,
+      31,
+      35,
+      41,
+      40,
+      28,
+      29,
+      33,
+      38
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_4856"
+    }
+  },
+  "pilot16/OD_260.png": {
+    "id": "pilot16/OD_260.png",
+    "idx": "OD_260",
+    "annotations": [
+      "big climb in the middle",
+      "no ordered or unique plot",
+      "decreases at the end"
+    ],
+    "series": [
+      37,
+      39,
+      26,
+      27,
+      15,
+      0,
+      12,
+      33,
+      20,
+      25,
+      20,
+      17
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_3128"
+    }
+  },
+  "pilot16/OD_421.png": {
+    "id": "pilot16/OD_421.png",
+    "idx": "OD_421",
+    "annotations": [
+      "flat at the end",
+      "sharply decreases from the beginning",
+      "slight peak at the ending"
+    ],
+    "series": [
+      24,
+      12,
+      0,
+      5,
+      21,
+      21,
+      2,
+      15,
+      2,
+      14,
+      2,
+      9
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_5060"
+    }
+  },
+  "pilot16/BD_285.png": {
+    "id": "pilot16/BD_285.png",
+    "idx": "BD_285",
+    "annotations": [
+      "gradually rises from beginning",
+      "begins at the very bottom",
+      "increases in a steady manner"
+    ],
+    "series": [
+      0,
+      8,
+      9,
+      13,
+      12,
+      17,
+      14,
+      20,
+      21,
+      29,
+      38,
+      39
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_3428"
+    }
+  },
+  "pilot16/OW_128.png": {
+    "id": "pilot16/OW_128.png",
+    "idx": "OW_128",
+    "annotations": [
+      "remains flat in the middle",
+      "slow decline in beginning",
+      "steady decrease towards the end"
+    ],
+    "series": [
+      32,
+      29,
+      10,
+      14,
+      25,
+      31,
+      28,
+      34,
+      44,
+      62,
+      39,
+      35
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OW_1544"
+    }
+  },
+  "pilot16/ZD_98.png": {
+    "id": "pilot16/ZD_98.png",
+    "idx": "ZD_98",
+    "annotations": [
+      "drops in the middle",
+      "sharp dip in the middle",
+      "large dip in the middle"
+    ],
+    "series": [
+      56,
+      59,
+      54,
+      40,
+      28,
+      19,
+      25,
+      40,
+      49,
+      44,
+      48,
+      55
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_1184"
+    }
+  },
+  "pilot16/ZD_454.png": {
+    "id": "pilot16/ZD_454.png",
+    "idx": "ZD_454",
+    "annotations": [
+      "increase from the middle",
+      "decreases at the beginning",
+      "decreases in the beginning"
+    ],
+    "series": [
+      94,
+      77,
+      79,
+      83,
+      87,
+      78,
+      67,
+      87,
+      100,
+      75,
+      77,
+      84
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_5456"
+    }
+  },
+  "pilot16/AW_110.png": {
+    "id": "pilot16/AW_110.png",
+    "idx": "AW_110",
+    "annotations": [
+      "gradual decrease from the middle",
+      "moves steadily downwards from the middle",
+      "lowest value at the end"
+    ],
+    "series": [
+      81,
+      81,
+      81,
+      72,
+      89,
+      75,
+      67,
+      51,
+      52,
+      24,
+      45,
+      34
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AW_1328"
+    }
+  },
+  "pilot16/MSFT_Daily_625.png": {
+    "id": "pilot16/MSFT_Daily_625.png",
+    "idx": "MSFT_Daily_625",
+    "annotations": [
+      "increases in the middle and end with flat",
+      "middle contains a radical increase",
+      "slopes positively from the middle"
+    ],
+    "series": [
+      27,
+      15,
+      20,
+      9,
+      14,
+      28,
+      33,
+      51,
+      44,
+      53,
+      47,
+      49
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_7508"
+    }
+  },
+  "pilot16/MSFT_Weekly_45.png": {
+    "id": "pilot16/MSFT_Weekly_45.png",
+    "idx": "MSFT_Weekly_45",
+    "annotations": [
+      "ends lower than it started in the beginning",
+      "increases at the starting",
+      "ends with a gradual decrease"
+    ],
+    "series": [
+      55,
+      51,
+      41,
+      37,
+      36,
+      41,
+      39,
+      39,
+      38,
+      37,
+      30,
+      28
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Weekly_548"
+    }
+  },
+  "pilot16/ZD_62.png": {
+    "id": "pilot16/ZD_62.png",
+    "idx": "ZD_62",
+    "annotations": [
+      "short spike in the middle",
+      "drop at the end",
+      "slopes negatively towards the end"
+    ],
+    "series": [
+      46,
+      47,
+      30,
+      43,
+      35,
+      44,
+      59,
+      68,
+      43,
+      35,
+      28,
+      6
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_752"
+    }
+  },
+  "pilot16/DD_19.png": {
+    "id": "pilot16/DD_19.png",
+    "idx": "DD_19",
+    "annotations": [
+      "increases steadily in beginning",
+      "very slight increase throughout",
+      "the line is very steady and flat"
+    ],
+    "series": [
+      10,
+      12,
+      15,
+      15,
+      15,
+      17,
+      12,
+      15,
+      12,
+      15,
+      19,
+      21
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_236"
+    }
+  },
+  "pilot16/BD_474.png": {
+    "id": "pilot16/BD_474.png",
+    "idx": "BD_474",
+    "annotations": [
+      "stays mainly level at the very end.",
+      "peaks near the beginning.",
+      "declines in the middle"
+    ],
+    "series": [
+      44,
+      45,
+      69,
+      71,
+      66,
+      65,
+      65,
+      59,
+      48,
+      56,
+      61,
+      59
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_5696"
+    }
+  },
+  "pilot16/DD_268.png": {
+    "id": "pilot16/DD_268.png",
+    "idx": "DD_268",
+    "annotations": [
+      "decreases at end",
+      "levels off towards end",
+      "heads downward at the end."
+    ],
+    "series": [
+      16,
+      27,
+      32,
+      35,
+      29,
+      34,
+      40,
+      48,
+      42,
+      46,
+      46,
+      40
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_3224"
+    }
+  },
+  "pilot16/WD_281.png": {
+    "id": "pilot16/WD_281.png",
+    "idx": "WD_281",
+    "annotations": [
+      "decreases rapidly at the end",
+      "two peaks around the middle",
+      "falls of at end"
+    ],
+    "series": [
+      14,
+      11,
+      8,
+      15,
+      33,
+      46,
+      32,
+      31,
+      48,
+      59,
+      53,
+      36
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_3380"
+    }
+  },
+  "pilot16/WD_190.png": {
+    "id": "pilot16/WD_190.png",
+    "idx": "WD_190",
+    "annotations": [
+      "increase at the beginning",
+      "peaks in the middle",
+      "stays relatively flat throughout the middle."
+    ],
+    "series": [
+      21,
+      21,
+      30,
+      39,
+      40,
+      44,
+      35,
+      31,
+      43,
+      31,
+      34,
+      41
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_2288"
+    }
+  },
+  "pilot16/OD_440.png": {
+    "id": "pilot16/OD_440.png",
+    "idx": "OD_440",
+    "annotations": [
+      "slow decline in the middle",
+      "stays mostly flat",
+      "slight decrease throughout"
+    ],
+    "series": [
+      66,
+      64,
+      62,
+      64,
+      63,
+      62,
+      59,
+      59,
+      64,
+      62,
+      55,
+      57
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_5288"
+    }
+  },
+  "pilot16/OD_82.png": {
+    "id": "pilot16/OD_82.png",
+    "idx": "OD_82",
+    "annotations": [
+      "small peak just before the middle",
+      "slight increase in start",
+      "peaks in the middle"
+    ],
+    "series": [
+      21,
+      24,
+      26,
+      28,
+      32,
+      28,
+      26,
+      28,
+      22,
+      22,
+      25,
+      24
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_992"
+    }
+  },
+  "pilot16/OD_71.png": {
+    "id": "pilot16/OD_71.png",
+    "idx": "OD_71",
+    "annotations": [
+      "the plot slopes down ward.",
+      "the line stays around the same level",
+      "slight bump in the middle."
+    ],
+    "series": [
+      16,
+      17,
+      14,
+      18,
+      19,
+      20,
+      18,
+      13,
+      12,
+      14,
+      13,
+      16
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_860"
+    }
+  },
+  "pilot16/DD_295.png": {
+    "id": "pilot16/DD_295.png",
+    "idx": "DD_295",
+    "annotations": [
+      "stays flat in the middle",
+      "decreases in the beginning",
+      "decreases at beginning"
+    ],
+    "series": [
+      47,
+      36,
+      23,
+      16,
+      46,
+      39,
+      39,
+      41,
+      38,
+      55,
+      55,
+      52
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_3548"
+    }
+  },
+  "pilot16/AD_466.png": {
+    "id": "pilot16/AD_466.png",
+    "idx": "AD_466",
+    "annotations": [
+      "highest peak at the end",
+      "slowly increases from beginning to end",
+      "sharp rise at the end"
+    ],
+    "series": [
+      59,
+      70,
+      74,
+      71,
+      69,
+      67,
+      74,
+      80,
+      82,
+      76,
+      69,
+      83
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_5600"
+    }
+  },
+  "pilot16/MSFT_Daily_366.png": {
+    "id": "pilot16/MSFT_Daily_366.png",
+    "idx": "MSFT_Daily_366",
+    "annotations": [
+      "steep drop in the begining",
+      "lowest point at the end.",
+      "slopes down at start"
+    ],
+    "series": [
+      37,
+      36,
+      37,
+      36,
+      21,
+      28,
+      5,
+      5,
+      6,
+      17,
+      16,
+      4
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_4400"
+    }
+  },
+  "pilot16/ZD_17.png": {
+    "id": "pilot16/ZD_17.png",
+    "idx": "ZD_17",
+    "annotations": [
+      "slightly increases at the end.",
+      "it reaches it's peak near the end.",
+      "reasonably level in the first third."
+    ],
+    "series": [
+      46,
+      46,
+      46,
+      46,
+      41,
+      41,
+      48,
+      50,
+      49,
+      59,
+      70,
+      65
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_212"
+    }
+  },
+  "pilot16/MSFT_Daily_315.png": {
+    "id": "pilot16/MSFT_Daily_315.png",
+    "idx": "MSFT_Daily_315",
+    "annotations": [
+      "sharp dip at the end",
+      "steady, slight, decrease",
+      "mostly level for the first third."
+    ],
+    "series": [
+      49,
+      46,
+      50,
+      48,
+      50,
+      33,
+      28,
+      35,
+      24,
+      20,
+      13,
+      14
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_3788"
+    }
+  },
+  "pilot16/AW_3.png": {
+    "id": "pilot16/AW_3.png",
+    "idx": "AW_3",
+    "annotations": [
+      "ends at a higher value than the beginning",
+      "steady climb throughout",
+      "steady increase throughout"
+    ],
+    "series": [
+      11,
+      10,
+      12,
+      12,
+      20,
+      16,
+      24,
+      21,
+      21,
+      27,
+      31,
+      36
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AW_44"
+    }
+  },
+  "pilot16/GD_235.png": {
+    "id": "pilot16/GD_235.png",
+    "idx": "GD_235",
+    "annotations": [
+      "drops at the start",
+      "maximum after the middle",
+      "decreases at beginning"
+    ],
+    "series": [
+      74,
+      71,
+      59,
+      69,
+      66,
+      78,
+      76,
+      91,
+      90,
+      84,
+      84,
+      86
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_2828"
+    }
+  },
+  "pilot16/MSFT_Daily_520.png": {
+    "id": "pilot16/MSFT_Daily_520.png",
+    "idx": "MSFT_Daily_520",
+    "annotations": [
+      "small decline at start",
+      "steady increase in the middle",
+      "starts to decrease at the very end."
+    ],
+    "series": [
+      6,
+      0,
+      11,
+      17,
+      27,
+      21,
+      29,
+      43,
+      40,
+      48,
+      49,
+      42
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_6248"
+    }
+  },
+  "pilot16/GD_214.png": {
+    "id": "pilot16/GD_214.png",
+    "idx": "GD_214",
+    "annotations": [
+      "stays evenly",
+      "is lowest in the middle",
+      "it ends at a  slightly lower value"
+    ],
+    "series": [
+      85,
+      80,
+      77,
+      76,
+      64,
+      61,
+      64,
+      61,
+      65,
+      68,
+      71,
+      70
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_2576"
+    }
+  },
+  "pilot16/MSFT_Daily_435.png": {
+    "id": "pilot16/MSFT_Daily_435.png",
+    "idx": "MSFT_Daily_435",
+    "annotations": [
+      "low point in the middle",
+      "increasing steadily in the middle",
+      "increases in the latter half"
+    ],
+    "series": [
+      26,
+      25,
+      21,
+      21,
+      18,
+      9,
+      18,
+      17,
+      22,
+      22,
+      23,
+      28
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_5228"
+    }
+  },
+  "pilot16/ZD_388.png": {
+    "id": "pilot16/ZD_388.png",
+    "idx": "ZD_388",
+    "annotations": [
+      "steady decline in the end.",
+      "rise from the middle",
+      "ends on a slight downward trend"
+    ],
+    "series": [
+      73,
+      78,
+      75,
+      66,
+      82,
+      78,
+      67,
+      75,
+      71,
+      80,
+      66,
+      63
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_4664"
+    }
+  },
+  "pilot16/MSFT_Daily_128.png": {
+    "id": "pilot16/MSFT_Daily_128.png",
+    "idx": "MSFT_Daily_128",
+    "annotations": [
+      "upward curve towards the end.",
+      "increase right at the end",
+      "stays flat till the end"
+    ],
+    "series": [
+      36,
+      41,
+      44,
+      42,
+      43,
+      40,
+      40,
+      38,
+      38,
+      43,
+      43,
+      52
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_1544"
+    }
+  },
+  "pilot16/AD_241.png": {
+    "id": "pilot16/AD_241.png",
+    "idx": "AD_241",
+    "annotations": [
+      "slight rise near the beginning.",
+      "line is steady with slight raise at thend",
+      "stays flat initially"
+    ],
+    "series": [
+      20,
+      18,
+      27,
+      25,
+      24,
+      24,
+      23,
+      27,
+      26,
+      23,
+      17,
+      20
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_2900"
+    }
+  },
+  "pilot16/MSFT_Daily_139.png": {
+    "id": "pilot16/MSFT_Daily_139.png",
+    "idx": "MSFT_Daily_139",
+    "annotations": [
+      "slight decline near the end.",
+      "small dip at the end",
+      "decreases at the end"
+    ],
+    "series": [
+      31,
+      29,
+      27,
+      27,
+      27,
+      31,
+      26,
+      26,
+      30,
+      32,
+      29,
+      25
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_1676"
+    }
+  },
+  "pilot16/ZD_353.png": {
+    "id": "pilot16/ZD_353.png",
+    "idx": "ZD_353",
+    "annotations": [
+      "end is very very low",
+      "reduces in the middle",
+      "decreased in the middle"
+    ],
+    "series": [
+      55,
+      55,
+      53,
+      60,
+      59,
+      50,
+      38,
+      32,
+      42,
+      48,
+      31,
+      26
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_4244"
+    }
+  },
+  "pilot16/AW_10.png": {
+    "id": "pilot16/AW_10.png",
+    "idx": "AW_10",
+    "annotations": [
+      "same value end is little low",
+      "starts to slowly climb at the end",
+      "stays flat till the end"
+    ],
+    "series": [
+      3,
+      4,
+      5,
+      4,
+      3,
+      5,
+      6,
+      0,
+      3,
+      3,
+      3,
+      8
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AW_128"
+    }
+  },
+  "pilot16/ZW_27.png": {
+    "id": "pilot16/ZW_27.png",
+    "idx": "ZW_27",
+    "annotations": [
+      "steady increase to maximum in first third",
+      "increases in the beginning.",
+      "increases initially"
+    ],
+    "series": [
+      59,
+      74,
+      91,
+      97,
+      79,
+      79,
+      79,
+      72,
+      59,
+      77,
+      69,
+      67
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZW_332"
+    }
+  },
+  "pilot16/MSFT_Daily_414.png": {
+    "id": "pilot16/MSFT_Daily_414.png",
+    "idx": "MSFT_Daily_414",
+    "annotations": [
+      "increased in at the end",
+      "increases from the middle",
+      "stays relatively flat."
+    ],
+    "series": [
+      28,
+      32,
+      31,
+      30,
+      17,
+      18,
+      13,
+      20,
+      20,
+      30,
+      28,
+      30
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_4976"
+    }
+  },
+  "pilot16/MSFT_Daily_614.png": {
+    "id": "pilot16/MSFT_Daily_614.png",
+    "idx": "MSFT_Daily_614",
+    "annotations": [
+      "peak in the end",
+      "shallowly increases at the beginning",
+      "reasonably steady growth throughout the entire plot"
+    ],
+    "series": [
+      33,
+      34,
+      38,
+      38,
+      37,
+      43,
+      52,
+      54,
+      64,
+      61,
+      86,
+      90
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_7376"
+    }
+  },
+  "pilot16/ZD_464.png": {
+    "id": "pilot16/ZD_464.png",
+    "idx": "ZD_464",
+    "annotations": [
+      "rremains flat first\rthen dips \rrises after \rthen dips",
+      "sharp fall at the end.",
+      "minimum value at the end"
+    ],
+    "series": [
+      96,
+      100,
+      96,
+      89,
+      84,
+      79,
+      87,
+      90,
+      92,
+      82,
+      71,
+      60
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_5576"
+    }
+  },
+  "pilot16/MSFT_Daily_589.png": {
+    "id": "pilot16/MSFT_Daily_589.png",
+    "idx": "MSFT_Daily_589",
+    "annotations": [
+      "on the rise in last third",
+      "decreased in the middle",
+      "peaks at the beginning"
+    ],
+    "series": [
+      61,
+      78,
+      72,
+      53,
+      23,
+      50,
+      36,
+      0,
+      25,
+      32,
+      38,
+      45
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_7076"
+    }
+  },
+  "pilot16/AD_103.png": {
+    "id": "pilot16/AD_103.png",
+    "idx": "AD_103",
+    "annotations": [
+      "it bottoms in the middle",
+      "ends at almost the same place it starts.",
+      "same value from start to end"
+    ],
+    "series": [
+      1,
+      2,
+      4,
+      4,
+      2,
+      0,
+      1,
+      1,
+      1,
+      5,
+      4,
+      4
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_1244"
+    }
+  },
+  "pilot16/DD_254.png": {
+    "id": "pilot16/DD_254.png",
+    "idx": "DD_254",
+    "annotations": [
+      "middle is very low",
+      "rises from middle onwards",
+      "rice from middle onward"
+    ],
+    "series": [
+      30,
+      28,
+      40,
+      36,
+      22,
+      9,
+      13,
+      2,
+      15,
+      28,
+      36,
+      39
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_3056"
+    }
+  },
+  "pilot16/DD_340.png": {
+    "id": "pilot16/DD_340.png",
+    "idx": "DD_340",
+    "annotations": [
+      "mounds in the beginning",
+      "small trough at the end",
+      "decreased in the middle"
+    ],
+    "series": [
+      19,
+      29,
+      25,
+      30,
+      25,
+      28,
+      15,
+      10,
+      18,
+      7,
+      0,
+      14
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_4088"
+    }
+  },
+  "pilot16/WD_185.png": {
+    "id": "pilot16/WD_185.png",
+    "idx": "WD_185",
+    "annotations": [
+      "increases from the middle",
+      "slight decline to minimum after start",
+      "rise from middle onwards."
+    ],
+    "series": [
+      48,
+      40,
+      46,
+      56,
+      62,
+      61,
+      54,
+      58,
+      66,
+      70,
+      68,
+      66
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_2228"
+    }
+  },
+  "pilot16/OD_433.png": {
+    "id": "pilot16/OD_433.png",
+    "idx": "OD_433",
+    "annotations": [
+      "increases after the middle",
+      "raise rise from middle onwards.",
+      "increased in the middle"
+    ],
+    "series": [
+      15,
+      8,
+      8,
+      6,
+      10,
+      3,
+      0,
+      11,
+      9,
+      16,
+      36,
+      34
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_5204"
+    }
+  },
+  "pilot16/OD_84.png": {
+    "id": "pilot16/OD_84.png",
+    "idx": "OD_84",
+    "annotations": [
+      "stays flat till the end",
+      "stays linear till the end",
+      "stays relatively flat."
+    ],
+    "series": [
+      13,
+      11,
+      16,
+      22,
+      22,
+      13,
+      16,
+      18,
+      17,
+      15,
+      18,
+      18
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_1016"
+    }
+  },
+  "pilot16/DD_549.png": {
+    "id": "pilot16/DD_549.png",
+    "idx": "DD_549",
+    "annotations": [
+      "it increases steadily in the middle",
+      "same level increase",
+      "slowly increases in the middle"
+    ],
+    "series": [
+      52,
+      48,
+      44,
+      48,
+      46,
+      51,
+      56,
+      55,
+      60,
+      68,
+      83,
+      79
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_6596"
+    }
+  },
+  "pilot16/WD_619.png": {
+    "id": "pilot16/WD_619.png",
+    "idx": "WD_619",
+    "annotations": [
+      "increase and decrease same manner to all side",
+      "decrease in the end",
+      "steady fall at the end."
+    ],
+    "series": [
+      71,
+      72,
+      81,
+      87,
+      91,
+      89,
+      87,
+      88,
+      81,
+      71,
+      64,
+      63
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_7436"
+    }
+  },
+  "pilot16/OD_417.png": {
+    "id": "pilot16/OD_417.png",
+    "idx": "OD_417",
+    "annotations": [
+      "it peaks at the end",
+      "increases from the middle",
+      "increases at the end"
+    ],
+    "series": [
+      38,
+      37,
+      37,
+      29,
+      28,
+      33,
+      24,
+      33,
+      23,
+      23,
+      30,
+      35
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_5012"
+    }
+  },
+  "pilot16/OW_89.png": {
+    "id": "pilot16/OW_89.png",
+    "idx": "OW_89",
+    "annotations": [
+      "shallow incline from the middle onwards",
+      "trends upward throughout",
+      "increases at the end"
+    ],
+    "series": [
+      9,
+      5,
+      8,
+      25,
+      44,
+      40,
+      42,
+      48,
+      55,
+      56,
+      59,
+      58
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OW_1076"
+    }
+  },
+  "pilot16/DD_44.png": {
+    "id": "pilot16/DD_44.png",
+    "idx": "DD_44",
+    "annotations": [
+      "more or less stays flat",
+      "stays flat till the end",
+      "steady fall at the beginning."
+    ],
+    "series": [
+      27,
+      25,
+      21,
+      18,
+      22,
+      17,
+      20,
+      19,
+      27,
+      15,
+      20,
+      21
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_536"
+    }
+  },
+  "pilot16/BD_210.png": {
+    "id": "pilot16/BD_210.png",
+    "idx": "BD_210",
+    "annotations": [
+      "increase higher in the middle",
+      "reduces in a volatile fashion",
+      "gradually increase till peak\rdecrease after the peak"
+    ],
+    "series": [
+      26,
+      26,
+      48,
+      51,
+      62,
+      57,
+      51,
+      51,
+      46,
+      60,
+      69,
+      91
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_2528"
+    }
+  },
+  "pilot16/DD_312.png": {
+    "id": "pilot16/DD_312.png",
+    "idx": "DD_312",
+    "annotations": [
+      "increases in the middle.",
+      "increases gradually towards the end.",
+      "rises steadily."
+    ],
+    "series": [
+      42,
+      39,
+      42,
+      47,
+      36,
+      49,
+      58,
+      60,
+      58,
+      59,
+      57,
+      65
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_3752"
+    }
+  },
+  "pilot16/DW_10.png": {
+    "id": "pilot16/DW_10.png",
+    "idx": "DW_10",
+    "annotations": [
+      "decreased in the middle",
+      "declines slowly",
+      "is level at the beginning"
+    ],
+    "series": [
+      34,
+      30,
+      35,
+      34,
+      32,
+      19,
+      23,
+      18,
+      22,
+      20,
+      13,
+      16
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DW_128"
+    }
+  },
+  "pilot16/DD_201.png": {
+    "id": "pilot16/DD_201.png",
+    "idx": "DD_201",
+    "annotations": [
+      "nearly steady throughout then slight increase at end",
+      "steady even slope at the beginning.",
+      "small increase from the middle"
+    ],
+    "series": [
+      11,
+      12,
+      10,
+      15,
+      3,
+      17,
+      16,
+      16,
+      15,
+      16,
+      12,
+      22
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_2420"
+    }
+  },
+  "pilot16/OD_77.png": {
+    "id": "pilot16/OD_77.png",
+    "idx": "OD_77",
+    "annotations": [
+      "plot bottoms out but ends on positive run",
+      "ends greater than lower",
+      "rises slowly in the second half."
+    ],
+    "series": [
+      4,
+      4,
+      4,
+      1,
+      0,
+      4,
+      5,
+      7,
+      11,
+      11,
+      18,
+      19
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_932"
+    }
+  },
+  "pilot16/DD_370.png": {
+    "id": "pilot16/DD_370.png",
+    "idx": "DD_370",
+    "annotations": [
+      "steady growth in middle",
+      "decreases slightly at the end",
+      "slightly increases in the middle"
+    ],
+    "series": [
+      29,
+      27,
+      24,
+      30,
+      31,
+      51,
+      50,
+      58,
+      68,
+      73,
+      72,
+      61
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_4448"
+    }
+  },
+  "pilot16/WD_357.png": {
+    "id": "pilot16/WD_357.png",
+    "idx": "WD_357",
+    "annotations": [
+      "stays consistent throughout",
+      "end is same as start",
+      "slightly decreasing at end"
+    ],
+    "series": [
+      36,
+      43,
+      48,
+      47,
+      50,
+      48,
+      42,
+      40,
+      54,
+      46,
+      37,
+      37
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_4292"
+    }
+  },
+  "pilot16/DW_14.png": {
+    "id": "pilot16/DW_14.png",
+    "idx": "DW_14",
+    "annotations": [
+      "decreases from the middle until almost the end",
+      "ends is lower than start.",
+      "ends lower than the start"
+    ],
+    "series": [
+      63,
+      64,
+      63,
+      70,
+      63,
+      64,
+      51,
+      52,
+      42,
+      41,
+      33,
+      42
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DW_176"
+    }
+  },
+  "pilot16/WD_259.png": {
+    "id": "pilot16/WD_259.png",
+    "idx": "WD_259",
+    "annotations": [
+      "decreases at the end",
+      "peaks in the middle",
+      "peaks at the middle"
+    ],
+    "series": [
+      0,
+      13,
+      44,
+      46,
+      55,
+      54,
+      54,
+      34,
+      31,
+      31,
+      22,
+      13
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_3116"
+    }
+  },
+  "pilot16/DD_214.png": {
+    "id": "pilot16/DD_214.png",
+    "idx": "DD_214",
+    "annotations": [
+      "slightly increases before the end",
+      "peaks at the end",
+      "strong increae at end"
+    ],
+    "series": [
+      8,
+      6,
+      5,
+      9,
+      23,
+      16,
+      17,
+      24,
+      36,
+      55,
+      58,
+      69
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_2576"
+    }
+  },
+  "pilot16/OD_143.png": {
+    "id": "pilot16/OD_143.png",
+    "idx": "OD_143",
+    "annotations": [
+      "ends in slightly upper than start.",
+      "rises from middle to end",
+      "steady slow increase at end"
+    ],
+    "series": [
+      7,
+      11,
+      7,
+      8,
+      2,
+      0,
+      7,
+      17,
+      20,
+      17,
+      22,
+      23
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_1724"
+    }
+  },
+  "pilot16/OD_458.png": {
+    "id": "pilot16/OD_458.png",
+    "idx": "OD_458",
+    "annotations": [
+      "ends is lower than start",
+      "flattens at end",
+      "the highpoint is at the start"
+    ],
+    "series": [
+      85,
+      72,
+      56,
+      64,
+      77,
+      68,
+      73,
+      84,
+      54,
+      56,
+      66,
+      65
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_5504"
+    }
+  },
+  "pilot16/GD_213.png": {
+    "id": "pilot16/GD_213.png",
+    "idx": "GD_213",
+    "annotations": [
+      "plot is flat and even for a potion",
+      "there is a small pleateau in the middle",
+      "decreases in a volatile manner"
+    ],
+    "series": [
+      43,
+      44,
+      56,
+      57,
+      58,
+      71,
+      66,
+      64,
+      52,
+      46,
+      44,
+      54
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_2564"
+    }
+  },
+  "pilot16/MSFT_Daily_255.png": {
+    "id": "pilot16/MSFT_Daily_255.png",
+    "idx": "MSFT_Daily_255",
+    "annotations": [
+      "the beginning is the lowest point",
+      "increases quickly at the beginning",
+      "sharp increase at the start"
+    ],
+    "series": [
+      31,
+      58,
+      75,
+      73,
+      78,
+      70,
+      81,
+      82,
+      68,
+      64,
+      57,
+      68
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_3068"
+    }
+  },
+  "pilot16/MSFT_Daily_565.png": {
+    "id": "pilot16/MSFT_Daily_565.png",
+    "idx": "MSFT_Daily_565",
+    "annotations": [
+      "increases quickly at the beginning",
+      "plateau in the middle",
+      "large increase at start"
+    ],
+    "series": [
+      28,
+      50,
+      44,
+      59,
+      62,
+      75,
+      70,
+      69,
+      64,
+      85,
+      83,
+      83
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_6788"
+    }
+  },
+  "pilot16/MSFT_Daily_7.png": {
+    "id": "pilot16/MSFT_Daily_7.png",
+    "idx": "MSFT_Daily_7",
+    "annotations": [
+      "ends on only a slight increase from start",
+      "stays mostly flat at the beginning",
+      "value slowly increasing from start to end"
+    ],
+    "series": [
+      10,
+      9,
+      9,
+      9,
+      13,
+      15,
+      16,
+      21,
+      22,
+      19,
+      21,
+      21
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_92"
+    }
+  },
+  "pilot16/AD_169.png": {
+    "id": "pilot16/AD_169.png",
+    "idx": "AD_169",
+    "annotations": [
+      "very small slight rise at the end",
+      "very marginal decline",
+      "very steady and flat"
+    ],
+    "series": [
+      15,
+      16,
+      15,
+      16,
+      17,
+      16,
+      16,
+      16,
+      14,
+      13,
+      12,
+      13
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_2036"
+    }
+  },
+  "pilot16/AW_87.png": {
+    "id": "pilot16/AW_87.png",
+    "idx": "AW_87",
+    "annotations": [
+      "peaks in the middle",
+      "the high point is just after the middle",
+      "crests 3/4ths of the way in"
+    ],
+    "series": [
+      27,
+      34,
+      30,
+      38,
+      42,
+      48,
+      53,
+      73,
+      65,
+      42,
+      58,
+      48
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AW_1052"
+    }
+  },
+  "pilot16/AD_275.png": {
+    "id": "pilot16/AD_275.png",
+    "idx": "AD_275",
+    "annotations": [
+      "finishing line is very slightly down.",
+      "stays flat",
+      "ends is greater than start"
+    ],
+    "series": [
+      3,
+      3,
+      4,
+      5,
+      5,
+      9,
+      6,
+      6,
+      7,
+      5,
+      7,
+      5
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_3308"
+    }
+  },
+  "pilot16/AD_587.png": {
+    "id": "pilot16/AD_587.png",
+    "idx": "AD_587",
+    "annotations": [
+      "trough in the middle",
+      "increases slightly in the second half",
+      "middle is very lower than start."
+    ],
+    "series": [
+      78,
+      78,
+      59,
+      59,
+      61,
+      54,
+      66,
+      66,
+      70,
+      78,
+      75,
+      75
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_7052"
+    }
+  },
+  "pilot16/MSFT_Daily_368.png": {
+    "id": "pilot16/MSFT_Daily_368.png",
+    "idx": "MSFT_Daily_368",
+    "annotations": [
+      "falls steadily from the back 10%",
+      "steady linear decrease throughout",
+      "the lowest point is at the end"
+    ],
+    "series": [
+      79,
+      71,
+      72,
+      64,
+      62,
+      46,
+      34,
+      34,
+      25,
+      32,
+      36,
+      24
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_4424"
+    }
+  },
+  "pilot16/AD_256.png": {
+    "id": "pilot16/AD_256.png",
+    "idx": "AD_256",
+    "annotations": [
+      "very steady no change overall",
+      "very slight decrease in the middle",
+      "ends is same as the start"
+    ],
+    "series": [
+      18,
+      17,
+      18,
+      18,
+      14,
+      14,
+      10,
+      11,
+      11,
+      11,
+      16,
+      14
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_3080"
+    }
+  },
+  "pilot16/ZD_116.png": {
+    "id": "pilot16/ZD_116.png",
+    "idx": "ZD_116",
+    "annotations": [
+      "down at the end",
+      "slight increase at end",
+      "sharp decrease at the beginning"
+    ],
+    "series": [
+      59,
+      44,
+      47,
+      51,
+      54,
+      52,
+      57,
+      56,
+      51,
+      44,
+      48,
+      53
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_1400"
+    }
+  },
+  "pilot16/ZD_336.png": {
+    "id": "pilot16/ZD_336.png",
+    "idx": "ZD_336",
+    "annotations": [
+      "increases then dips then increases again",
+      "increases at the beginning",
+      "there is a constant decrease towards the end"
+    ],
+    "series": [
+      18,
+      19,
+      37,
+      45,
+      33,
+      27,
+      35,
+      31,
+      39,
+      46,
+      39,
+      30
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_4040"
+    }
+  },
+  "pilot16/AD_60.png": {
+    "id": "pilot16/AD_60.png",
+    "idx": "AD_60",
+    "annotations": [
+      "stays at nearly the same value throughout",
+      "ends and starts are little lower",
+      "ends at same point that it began"
+    ],
+    "series": [
+      22,
+      17,
+      23,
+      24,
+      22,
+      21,
+      22,
+      20,
+      20,
+      22,
+      24,
+      22
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_728"
+    }
+  },
+  "pilot16/MSFT_Daily_97.png": {
+    "id": "pilot16/MSFT_Daily_97.png",
+    "idx": "MSFT_Daily_97",
+    "annotations": [
+      "slow ascension from the start",
+      "goes up in small increments and reduces",
+      "peaks just after the middle"
+    ],
+    "series": [
+      22,
+      21,
+      24,
+      25,
+      27,
+      29,
+      31,
+      36,
+      35,
+      27,
+      26,
+      26
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_1172"
+    }
+  },
+  "pilot16/GW_21.png": {
+    "id": "pilot16/GW_21.png",
+    "idx": "GW_21",
+    "annotations": [
+      "lower slightly towards the end",
+      "slope inverts near the end",
+      "slowly increases at the beginning"
+    ],
+    "series": [
+      41,
+      43,
+      43,
+      41,
+      45,
+      52,
+      53,
+      50,
+      61,
+      74,
+      75,
+      69
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GW_260"
+    }
+  },
+  "pilot16/GD_199.png": {
+    "id": "pilot16/GD_199.png",
+    "idx": "GD_199",
+    "annotations": [
+      "sudden rise to failure",
+      "gradually decreases after the halfway point",
+      "rises in the middle"
+    ],
+    "series": [
+      99,
+      98,
+      96,
+      87,
+      95,
+      97,
+      98,
+      95,
+      93,
+      85,
+      90,
+      78
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_2396"
+    }
+  },
+  "pilot16/AD_510.png": {
+    "id": "pilot16/AD_510.png",
+    "idx": "AD_510",
+    "annotations": [
+      "gradual peak in the middle",
+      "moderate rise at the beginning",
+      "increases a bit in the middle"
+    ],
+    "series": [
+      34,
+      37,
+      53,
+      51,
+      50,
+      51,
+      51,
+      57,
+      53,
+      51,
+      48,
+      47
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_6128"
+    }
+  },
+  "pilot16/ZD_118.png": {
+    "id": "pilot16/ZD_118.png",
+    "idx": "ZD_118",
+    "annotations": [
+      "bottoms out in the middle",
+      "bottoms out in the middle",
+      "troughs in middle"
+    ],
+    "series": [
+      65,
+      80,
+      70,
+      60,
+      52,
+      45,
+      47,
+      60,
+      67,
+      60,
+      57,
+      66
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_1424"
+    }
+  },
+  "pilot16/AW_115.png": {
+    "id": "pilot16/AW_115.png",
+    "idx": "AW_115",
+    "annotations": [
+      "starts out staying flat",
+      "remains flat initially",
+      "remains steady in beginning"
+    ],
+    "series": [
+      35,
+      37,
+      33,
+      34,
+      25,
+      48,
+      44,
+      45,
+      47,
+      54,
+      52,
+      46
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AW_1388"
+    }
+  },
+  "pilot16/GD_107.png": {
+    "id": "pilot16/GD_107.png",
+    "idx": "GD_107",
+    "annotations": [
+      "end value much higher than beginning",
+      "increases steadily throughout",
+      "steady increases in middle"
+    ],
+    "series": [
+      33,
+      49,
+      46,
+      48,
+      54,
+      56,
+      63,
+      59,
+      75,
+      77,
+      77,
+      77
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_1292"
+    }
+  },
+  "pilot16/ZW_6.png": {
+    "id": "pilot16/ZW_6.png",
+    "idx": "ZW_6",
+    "annotations": [
+      "downward slope starting right after the middle",
+      "peaks in the middle portion",
+      "peaks in the middle"
+    ],
+    "series": [
+      25,
+      20,
+      26,
+      38,
+      44,
+      44,
+      72,
+      62,
+      52,
+      49,
+      48,
+      42
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZW_80"
+    }
+  },
+  "pilot16/MSFT_Daily_452.png": {
+    "id": "pilot16/MSFT_Daily_452.png",
+    "idx": "MSFT_Daily_452",
+    "annotations": [
+      "flattens out at the end",
+      "decreases in the beginning",
+      "minimum value at the end"
+    ],
+    "series": [
+      70,
+      60,
+      61,
+      70,
+      77,
+      80,
+      66,
+      73,
+      67,
+      65,
+      55,
+      58
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_5432"
+    }
+  },
+  "pilot16/MSFT_Daily_19.png": {
+    "id": "pilot16/MSFT_Daily_19.png",
+    "idx": "MSFT_Daily_19",
+    "annotations": [
+      "remains relatively low and flat throughout",
+      "ends at the same place it started",
+      "very steady throughout"
+    ],
+    "series": [
+      12,
+      11,
+      11,
+      9,
+      10,
+      10,
+      10,
+      11,
+      13,
+      12,
+      13,
+      13
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_236"
+    }
+  },
+  "pilot16/ZD_88.png": {
+    "id": "pilot16/ZD_88.png",
+    "idx": "ZD_88",
+    "annotations": [
+      "gradually lowers in the beginning",
+      "slight decline towards middle",
+      "decreases with low volatility"
+    ],
+    "series": [
+      45,
+      44,
+      42,
+      39,
+      35,
+      29,
+      24,
+      26,
+      30,
+      26,
+      23,
+      25
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_1064"
+    }
+  },
+  "pilot16/AD_337.png": {
+    "id": "pilot16/AD_337.png",
+    "idx": "AD_337",
+    "annotations": [
+      "approximately 45 degree downward angle at beginning",
+      "lowers initially",
+      "decreases smoothly initially"
+    ],
+    "series": [
+      42,
+      36,
+      29,
+      28,
+      39,
+      40,
+      40,
+      29,
+      28,
+      12,
+      13,
+      17
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_4052"
+    }
+  },
+  "pilot16/WD_111.png": {
+    "id": "pilot16/WD_111.png",
+    "idx": "WD_111",
+    "annotations": [
+      "slight downturn at the end",
+      "bottoms out in the middle",
+      "a low point is reached in the middle"
+    ],
+    "series": [
+      30,
+      28,
+      15,
+      15,
+      18,
+      15,
+      0,
+      2,
+      10,
+      15,
+      20,
+      18
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_1340"
+    }
+  },
+  "pilot16/OD_496.png": {
+    "id": "pilot16/OD_496.png",
+    "idx": "OD_496",
+    "annotations": [
+      "rises sharply at very begining",
+      "constant increase",
+      "creates a small peak near the beginning"
+    ],
+    "series": [
+      3,
+      20,
+      4,
+      0,
+      1,
+      6,
+      11,
+      19,
+      18,
+      16,
+      32,
+      35
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_5960"
+    }
+  },
+  "pilot16/WD_561.png": {
+    "id": "pilot16/WD_561.png",
+    "idx": "WD_561",
+    "annotations": [
+      "starts to recover towards end.",
+      "decreases sharply in the middle",
+      "maximum value at the beginning"
+    ],
+    "series": [
+      51,
+      72,
+      70,
+      66,
+      65,
+      30,
+      20,
+      9,
+      0,
+      1,
+      13,
+      16
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_6740"
+    }
+  },
+  "pilot16/WD_59.png": {
+    "id": "pilot16/WD_59.png",
+    "idx": "WD_59",
+    "annotations": [
+      "lowest point is at the end of plot",
+      "declines after peak toward the end",
+      "slight rounded peak in middle"
+    ],
+    "series": [
+      43,
+      33,
+      40,
+      40,
+      43,
+      44,
+      44,
+      50,
+      49,
+      43,
+      40,
+      32
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_716"
+    }
+  },
+  "pilot16/BD_292.png": {
+    "id": "pilot16/BD_292.png",
+    "idx": "BD_292",
+    "annotations": [
+      "sharp increase at about 45 degrees at end",
+      "increasing rise at the end.",
+      "steady increase towards end"
+    ],
+    "series": [
+      10,
+      18,
+      2,
+      18,
+      10,
+      14,
+      24,
+      21,
+      19,
+      29,
+      42,
+      49
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_3512"
+    }
+  },
+  "pilot16/WD_175.png": {
+    "id": "pilot16/WD_175.png",
+    "idx": "WD_175",
+    "annotations": [
+      "ends about halfway up the y-axis",
+      "increases in a somewhat linear fashion",
+      "has a consistently positive slope"
+    ],
+    "series": [
+      7,
+      12,
+      13,
+      16,
+      30,
+      41,
+      42,
+      41,
+      43,
+      43,
+      47,
+      55
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_2108"
+    }
+  },
+  "pilot16/BD_216.png": {
+    "id": "pilot16/BD_216.png",
+    "idx": "BD_216",
+    "annotations": [
+      "sharp increase towards the middle",
+      "sharply rises in the beginning",
+      "increases sharply near the beginning"
+    ],
+    "series": [
+      7,
+      6,
+      0,
+      36,
+      84,
+      47,
+      65,
+      79,
+      77,
+      75,
+      65,
+      48
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_2600"
+    }
+  },
+  "pilot16/WD_480.png": {
+    "id": "pilot16/WD_480.png",
+    "idx": "WD_480",
+    "annotations": [
+      "increases in the middle.",
+      "sharper increase in the middle",
+      "volatile increases throughout"
+    ],
+    "series": [
+      14,
+      14,
+      13,
+      26,
+      23,
+      19,
+      30,
+      32,
+      44,
+      37,
+      45,
+      41
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_5768"
+    }
+  },
+  "pilot16/OD_83.png": {
+    "id": "pilot16/OD_83.png",
+    "idx": "OD_83",
+    "annotations": [
+      "consistent decline throughout graph",
+      "slowly lowers from the beginning",
+      "remains flat in the middle"
+    ],
+    "series": [
+      22,
+      24,
+      9,
+      8,
+      5,
+      1,
+      3,
+      2,
+      1,
+      0,
+      6,
+      9
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_1004"
+    }
+  },
+  "pilot16/WD_19.png": {
+    "id": "pilot16/WD_19.png",
+    "idx": "WD_19",
+    "annotations": [
+      "drops at the beginning",
+      "has a negligible parabolic tendency",
+      "troughs right in the middle"
+    ],
+    "series": [
+      57,
+      49,
+      45,
+      37,
+      43,
+      40,
+      37,
+      36,
+      45,
+      44,
+      44,
+      53
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_236"
+    }
+  },
+  "pilot16/DD_285.png": {
+    "id": "pilot16/DD_285.png",
+    "idx": "DD_285",
+    "annotations": [
+      "bottoms out at the beginning",
+      "bottoms out in the beginning",
+      "increases steadily beginning in the middle"
+    ],
+    "series": [
+      14,
+      8,
+      0,
+      1,
+      2,
+      16,
+      21,
+      26,
+      25,
+      26,
+      43,
+      48
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_3428"
+    }
+  },
+  "pilot16/DD_258.png": {
+    "id": "pilot16/DD_258.png",
+    "idx": "DD_258",
+    "annotations": [
+      "reaches its lowest point at the end",
+      "flat peak in middle near end",
+      "approximately 60 degree downward slope at beginning"
+    ],
+    "series": [
+      36,
+      18,
+      15,
+      27,
+      28,
+      20,
+      48,
+      50,
+      26,
+      23,
+      10,
+      11
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_3104"
+    }
+  },
+  "pilot16/BD_92.png": {
+    "id": "pilot16/BD_92.png",
+    "idx": "BD_92",
+    "annotations": [
+      "rises steadily in the middle",
+      "sharp increase at the start",
+      "trends upward on average"
+    ],
+    "series": [
+      11,
+      41,
+      33,
+      33,
+      38,
+      52,
+      56,
+      62,
+      64,
+      62,
+      50,
+      56
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_1112"
+    }
+  },
+  "pilot16/GD_98.png": {
+    "id": "pilot16/GD_98.png",
+    "idx": "GD_98",
+    "annotations": [
+      "drop at his lower value near the end.",
+      "ends at same value it starts.",
+      "peaks slightly in the middle"
+    ],
+    "series": [
+      49,
+      51,
+      51,
+      43,
+      56,
+      56,
+      46,
+      35,
+      33,
+      36,
+      44,
+      46
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_1184"
+    }
+  },
+  "pilot16/GW_8.png": {
+    "id": "pilot16/GW_8.png",
+    "idx": "GW_8",
+    "annotations": [
+      "steadily increases to an ending peak",
+      "max value at the end",
+      "steep incline from middle onward"
+    ],
+    "series": [
+      11,
+      3,
+      7,
+      7,
+      30,
+      25,
+      24,
+      38,
+      42,
+      66,
+      77,
+      75
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GW_104"
+    }
+  },
+  "pilot16/ZD_225.png": {
+    "id": "pilot16/ZD_225.png",
+    "idx": "ZD_225",
+    "annotations": [
+      "bottom out near the end.",
+      "decreases rapidly in the middle",
+      "decreases in the first part."
+    ],
+    "series": [
+      66,
+      44,
+      57,
+      64,
+      54,
+      50,
+      32,
+      12,
+      0,
+      17,
+      15,
+      2
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_2708"
+    }
+  },
+  "pilot16/ZD_416.png": {
+    "id": "pilot16/ZD_416.png",
+    "idx": "ZD_416",
+    "annotations": [
+      "slowly go up until the middle.",
+      "increases steadily at the start",
+      "increases steadily initially"
+    ],
+    "series": [
+      12,
+      28,
+      30,
+      39,
+      44,
+      58,
+      60,
+      50,
+      47,
+      58,
+      53,
+      48
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZD_5000"
+    }
+  },
+  "pilot16/GD_205.png": {
+    "id": "pilot16/GD_205.png",
+    "idx": "GD_205",
+    "annotations": [
+      "bottoms out just before middle",
+      "lowest point in the middle",
+      "drops off in the middle."
+    ],
+    "series": [
+      53,
+      50,
+      41,
+      41,
+      32,
+      30,
+      43,
+      45,
+      47,
+      58,
+      58,
+      76
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GD_2468"
+    }
+  },
+  "pilot16/AD_257.png": {
+    "id": "pilot16/AD_257.png",
+    "idx": "AD_257",
+    "annotations": [
+      "long shallow incline starts before midpoint",
+      "sudden decreasing slope at end",
+      "slightly decreased towards the end."
+    ],
+    "series": [
+      7,
+      13,
+      13,
+      11,
+      9,
+      12,
+      13,
+      14,
+      14,
+      18,
+      21,
+      17
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_3092"
+    }
+  },
+  "pilot16/MSFT_Daily_316.png": {
+    "id": "pilot16/MSFT_Daily_316.png",
+    "idx": "MSFT_Daily_316",
+    "annotations": [
+      "perfectly flat at midpoint",
+      "begins with an initial gradual increase.",
+      "down up alce"
+    ],
+    "series": [
+      31,
+      30,
+      34,
+      37,
+      40,
+      44,
+      47,
+      37,
+      42,
+      36,
+      39,
+      33
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_3800"
+    }
+  },
+  "pilot16/ZW_92.png": {
+    "id": "pilot16/ZW_92.png",
+    "idx": "ZW_92",
+    "annotations": [
+      "sharp drop at the end",
+      "drops sharply from the starting point.",
+      "mostly flat for first third"
+    ],
+    "series": [
+      90,
+      93,
+      84,
+      98,
+      81,
+      65,
+      61,
+      42,
+      45,
+      53,
+      34,
+      20
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZW_1112"
+    }
+  },
+  "pilot16/AD_478.png": {
+    "id": "pilot16/AD_478.png",
+    "idx": "AD_478",
+    "annotations": [
+      "flat slowly decreasing",
+      "drops slightly in the end",
+      "go down at the end."
+    ],
+    "series": [
+      63,
+      56,
+      57,
+      59,
+      68,
+      65,
+      58,
+      46,
+      59,
+      48,
+      50,
+      46
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AD_5744"
+    }
+  },
+  "pilot16/GW_9.png": {
+    "id": "pilot16/GW_9.png",
+    "idx": "GW_9",
+    "annotations": [
+      "come to his peak near the start.",
+      "dips in the middle",
+      "starts with an initial positive spike."
+    ],
+    "series": [
+      71,
+      87,
+      92,
+      75,
+      78,
+      75,
+      58,
+      62,
+      80,
+      92,
+      81,
+      85
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GW_116"
+    }
+  },
+  "pilot16/MSFT_Weekly_42.png": {
+    "id": "pilot16/MSFT_Weekly_42.png",
+    "idx": "MSFT_Weekly_42",
+    "annotations": [
+      "rises high after the dip",
+      "small decline at the start",
+      "middle third is a great increase"
+    ],
+    "series": [
+      54,
+      54,
+      48,
+      42,
+      54,
+      60,
+      56,
+      93,
+      97,
+      95,
+      86,
+      88
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Weekly_512"
+    }
+  },
+  "pilot16/AW_98.png": {
+    "id": "pilot16/AW_98.png",
+    "idx": "AW_98",
+    "annotations": [
+      "reverses decrease near the end",
+      "steady rapid decrease in the middle",
+      "declines from start until near end"
+    ],
+    "series": [
+      95,
+      98,
+      87,
+      83,
+      76,
+      69,
+      67,
+      59,
+      49,
+      43,
+      57,
+      62
+    ],
+    "meta": {
+      "col_names": "A",
+      "idx": "AW_1184"
+    }
+  },
+  "pilot16/MSFT_Daily_460.png": {
+    "id": "pilot16/MSFT_Daily_460.png",
+    "idx": "MSFT_Daily_460",
+    "annotations": [
+      "finishes where it started.",
+      "remains fairly flat from the beginning",
+      "graph remains generally flat"
+    ],
+    "series": [
+      19,
+      28,
+      27,
+      26,
+      22,
+      28,
+      24,
+      29,
+      26,
+      25,
+      34,
+      25
+    ],
+    "meta": {
+      "col_names": "MSFT",
+      "idx": "MSFT_Daily_5528"
+    }
+  },
+  "pilot16/ZW_94.png": {
+    "id": "pilot16/ZW_94.png",
+    "idx": "ZW_94",
+    "annotations": [
+      "sharp, short decrease at very end",
+      "gradual increase",
+      "gradually increase in the middle."
+    ],
+    "series": [
+      40,
+      46,
+      38,
+      53,
+      61,
+      64,
+      72,
+      73,
+      76,
+      90,
+      92,
+      81
+    ],
+    "meta": {
+      "col_names": "Z",
+      "idx": "ZW_1136"
+    }
+  },
+  "pilot16/GW_33.png": {
+    "id": "pilot16/GW_33.png",
+    "idx": "GW_33",
+    "annotations": [
+      "hits lowest point in middle.",
+      "increase at the end.",
+      "bottoms out at first third"
+    ],
+    "series": [
+      18,
+      13,
+      3,
+      8,
+      0,
+      3,
+      8,
+      10,
+      6,
+      23,
+      34,
+      37
+    ],
+    "meta": {
+      "col_names": "G",
+      "idx": "GW_404"
+    }
+  },
+  "pilot16/BD_41.png": {
+    "id": "pilot16/BD_41.png",
+    "idx": "BD_41",
+    "annotations": [
+      "steady increase until end",
+      "increases in value",
+      "rises slowly."
+    ],
+    "series": [
+      32,
+      27,
+      37,
+      32,
+      34,
+      43,
+      39,
+      38,
+      40,
+      45,
+      50,
+      52
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_500"
+    }
+  },
+  "pilot16/OD_369.png": {
+    "id": "pilot16/OD_369.png",
+    "idx": "OD_369",
+    "annotations": [
+      "lowest value past the mid point",
+      "falls quickest in middle",
+      "peak near the start."
+    ],
+    "series": [
+      36,
+      21,
+      40,
+      36,
+      32,
+      22,
+      9,
+      3,
+      1,
+      9,
+      0,
+      6
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_4436"
+    }
+  },
+  "pilot16/WD_452.png": {
+    "id": "pilot16/WD_452.png",
+    "idx": "WD_452",
+    "annotations": [
+      "continues to drop from the beginning",
+      "drop down until the end.",
+      "drops drastically at the end"
+    ],
+    "series": [
+      77,
+      85,
+      86,
+      78,
+      73,
+      68,
+      64,
+      60,
+      59,
+      46,
+      40,
+      24
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_5432"
+    }
+  },
+  "pilot16/WD_277.png": {
+    "id": "pilot16/WD_277.png",
+    "idx": "WD_277",
+    "annotations": [
+      "max value at the end",
+      "has an uptick towards the end",
+      "highest value is at the end"
+    ],
+    "series": [
+      59,
+      73,
+      53,
+      62,
+      61,
+      63,
+      59,
+      49,
+      52,
+      67,
+      67,
+      72
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_3332"
+    }
+  },
+  "pilot16/BD_12.png": {
+    "id": "pilot16/BD_12.png",
+    "idx": "BD_12",
+    "annotations": [
+      "steadily drops from the beginning value",
+      "declines so it doesn't reach the end",
+      "drops at the end."
+    ],
+    "series": [
+      50,
+      57,
+      51,
+      48,
+      45,
+      47,
+      39,
+      29,
+      29,
+      17,
+      12,
+      0
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_152"
+    }
+  },
+  "pilot16/WD_412.png": {
+    "id": "pilot16/WD_412.png",
+    "idx": "WD_412",
+    "annotations": [
+      "reaches a minimum in the middle section.",
+      "goes down at the end",
+      "peaks near the end."
+    ],
+    "series": [
+      66,
+      69,
+      73,
+      59,
+      56,
+      49,
+      52,
+      51,
+      71,
+      70,
+      63,
+      55
+    ],
+    "meta": {
+      "col_names": "W",
+      "idx": "WD_4952"
+    }
+  },
+  "pilot16/DD_185.png": {
+    "id": "pilot16/DD_185.png",
+    "idx": "DD_185",
+    "annotations": [
+      "increases it's rate of increase near end.",
+      "curves upward at the end",
+      "steadily increases from the beginning."
+    ],
+    "series": [
+      21,
+      19,
+      24,
+      22,
+      22,
+      33,
+      25,
+      31,
+      32,
+      37,
+      40,
+      51
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_2228"
+    }
+  },
+  "pilot16/DD_239.png": {
+    "id": "pilot16/DD_239.png",
+    "idx": "DD_239",
+    "annotations": [
+      "ski slope shaped",
+      "increases rapidly at the beginning",
+      "drop at the end."
+    ],
+    "series": [
+      36,
+      66,
+      73,
+      56,
+      65,
+      58,
+      28,
+      13,
+      10,
+      17,
+      15,
+      28
+    ],
+    "meta": {
+      "col_names": "D",
+      "idx": "DD_2876"
+    }
+  },
+  "pilot16/OD_79.png": {
+    "id": "pilot16/OD_79.png",
+    "idx": "OD_79",
+    "annotations": [
+      "nearly flat throughout.",
+      "remains flat at the beginning",
+      "remains flat initially."
+    ],
+    "series": [
+      26,
+      26,
+      26,
+      27,
+      28,
+      23,
+      22,
+      22,
+      22,
+      21,
+      18,
+      19
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_956"
+    }
+  },
+  "pilot16/OD_127.png": {
+    "id": "pilot16/OD_127.png",
+    "idx": "OD_127",
+    "annotations": [
+      "nearly flat for middle third",
+      "slight decrease at the end",
+      "steady line"
+    ],
+    "series": [
+      22,
+      23,
+      33,
+      28,
+      27,
+      26,
+      27,
+      28,
+      28,
+      33,
+      39,
+      36
+    ],
+    "meta": {
+      "col_names": "O",
+      "idx": "OD_1532"
+    }
+  },
+  "pilot16/BD_78.png": {
+    "id": "pilot16/BD_78.png",
+    "idx": "BD_78",
+    "annotations": [
+      "slight increase in middle",
+      "lowest value at the end",
+      "falling line"
+    ],
+    "series": [
+      39,
+      46,
+      41,
+      39,
+      31,
+      37,
+      35,
+      17,
+      24,
+      20,
+      13,
+      13
+    ],
+    "meta": {
+      "col_names": "B",
+      "idx": "BD_944"
+    }
+  }
+}
