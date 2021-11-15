@@ -18,9 +18,10 @@ Code and Data for our EMNLP 2021 paper titled 'Truth-Conditional Captions for Ti
 
 
 #### Requirements
-- requirements.txt file
+- python=3.6
+- pip install -r requirements.txt file
 - Additional dependency on cocoevals
-  - Download cocoevals code from following URL: TODO 
+    - Download cocoevals code from following URL: https://drive.google.com/file/d/17AO2x_8_ltHI9WoVbcZIvGNZZ7wzKvFo/view?usp=sharing 
   - Move the folders to allennlp_series/training/metrics/
 
 
