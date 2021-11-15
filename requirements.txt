@@ -1,5 +1,7 @@
 torch==1.7.1
-allennlp
+allennlp<1.0
 bert-score==0.3.7
 numpy==1.16.2
 transformers==4.0.1
+scikit-image==0.17.2
+gensim
