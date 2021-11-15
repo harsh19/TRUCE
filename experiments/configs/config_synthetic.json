@@ -1,0 +1,43 @@
+{
+    "dataset_reader": {
+        "type": "synthetic_series_text_reader",
+        "label_data_subset_type": "type3",
+        "single_word_label_mode": false
+    },
+    "iterator": {
+        "type": "basic",
+        "batch_size": 8
+    },
+    "model": {
+        "type": "truce_method",
+        "task_setup_type":"text",
+        "model_type":"marginalize_new",
+        "use_combine_new_defn":true,
+        "init_program_emb_with_onehot":true,
+        "embedding_dim":9,
+        "text_embedding_dim":128,
+        "text_hidden_dim":128,
+        "program_trainable_attend":true,
+        "program_trainable_locate":true,
+        "init_trainable_with_hardcoded_vals":false,
+        "attend_module_type": "one_layer",
+        "use_factorized_program_emb": true
+    },
+    "train_data_path": "processed_data/pilot13finaltrain.json",
+    "validation_data_path": "processed_data/pilot13finalval.json",
+    "trainer": {
+        "cuda_device": -1,
+        "patience": 150,
+        "num_epochs": 600,
+        "num_serialized_models_to_keep": 1,
+        "optimizer": {
+            "type": "adam",
+            "lr": 1e-04
+        },
+        "should_log_learning_rate": true,
+        "validation_metric": "+Bleu_4",
+        "shuffle": true
+    },
+    "evaluate_on_test": false
+}
+

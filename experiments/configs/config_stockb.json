@@ -1,0 +1,57 @@
+{
+    "dataset_reader": {
+        "type": "stock_series_text_reader",
+        "debug": false,
+        "train_data_fraction":1.0,
+        "use_heuristic_labels":true,
+        "heuristic_label_mapper_type":"factorized",
+        "num_attend_modules":6
+    },
+    "iterator": {
+        "type": "basic",
+        "batch_size": 32
+    },
+    "model": {
+        "type": "truce_method",
+        "task_setup_type":"text",
+        "model_type":"marginalize_new",
+        "use_combine_new_defn":true,
+        "init_program_emb_with_onehot":true,
+        "program_trainable_attend":true,
+        "program_trainable_locate":true,
+        "init_trainable_with_hardcoded_vals":false,
+        "attend_module_type": "one_layer",
+        "use_factorized_program_emb":true,
+        "embedding_dim":36,
+        "text_embedding_dim":128,
+        "text_hidden_dim":128,
+        "use_inference_network":true,
+        "inference_network_frozen":false,
+        "kl_threshold":0.0,
+        "kl_annealing_type":"linear_0_005",
+        "mutual_kl_distance_wt":1.0,
+        "mutual_kl_distance_use_log":true,
+        "num_attend_modules":6,
+        "num_locate_modules":6,
+        "use_all_scores_list_tensor_l2": true,
+        "program_score_l2_wt":0.1
+    },
+    "train_data_path": "processed_data/pilot16btrain.json",
+    "validation_data_path": "processed_data/pilot16bval.json",
+    "test_data_path": "processed_data/pilot16btest.json",
+    "trainer": {
+        "num_epochs":200,
+        "patience":35,
+        "cuda_device": -1,
+        "num_serialized_models_to_keep": 1,
+        "optimizer": {
+            "type": "adam",
+            "lr": 1e-04
+        },
+        "should_log_learning_rate": true,
+        "validation_metric": "-loss",
+        "shuffle": true
+    },
+    "evaluate_on_test": false
+}
+

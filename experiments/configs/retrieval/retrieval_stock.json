@@ -1,0 +1,25 @@
+{
+    "dataset_reader": {
+        "type": "inference_reader"
+    },
+    "iterator": {
+        "type": "basic",
+        "batch_size": 8
+    },
+    "model": {
+        "type":"retrieval",
+        "distance_function": "l2"
+    },
+    "train_data_path": "processed_data/pilot16btrain.json",
+    "validation_data_path": "processed_data/pilot16bval.json",
+    "test_data_path": "processed_data/pilot16btest.json",
+    "trainer": {
+        "type":"retrieval",
+        "cuda_device": -1,
+        "patience": 1,
+        "num_epochs": 1,
+        "should_log_learning_rate": true
+    },
+    "evaluate_on_test": false
+}
+
